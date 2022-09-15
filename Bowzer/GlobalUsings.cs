@@ -1,0 +1,12 @@
+﻿global using CommunityToolkit.Mvvm.ComponentModel;
+global using CommunityToolkit.Mvvm.Input;
+global using Bowzer.Models;
+global using Bowzer.ViewModels;
+global using Bowzer.Views;
+global using Bowzer.Services;
+global using Bowzer.Interfaces;
+global using System.Collections.ObjectModel;
+global using System.ComponentModel;
+global using System.Diagnostics;
+global using System.Runtime.CompilerServices;
+global using System.Text.Json;
